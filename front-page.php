@@ -1,1 +1,7 @@
-this is thefront-page
+<?= 
+  get_header();
+?>
+
+<?=
+  get_footer();
+?>
