@@ -8,7 +8,8 @@ Template Name: Contact us
   get_header();
 ?>
 
-<div class="container">
+<section class="page-wrap">
+  <div class="container">
 
   <h1><?php the_title(); ?></h1>
 
@@ -24,7 +25,7 @@ Template Name: Contact us
 
     </div>
   </div>
-
+</section>
   
   
 </div>
