@@ -11,7 +11,7 @@ Template Name: Contact us
 <section class="page-wrap">
   <div class="container">
 
-  <h1><?php the_title(); ?></h1>
+  <h1><?php the_title(); ?>(template unique)</h1>
 
   <div class="row">
 
