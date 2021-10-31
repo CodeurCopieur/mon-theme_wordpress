@@ -3,6 +3,8 @@
 ?>
 <section class="page-wrap">
   <div class="container">
+
+      
     <div class="row">
       <!-- param 1: ou il se trouve, param 2: deuxième partie du nom  -->
       <?= get_template_part('includes/section','archive'); ?>
